@@ -19,6 +19,9 @@ Then read the data in it.
 ## How to run it:
 After installing python, directly run `python3 generateCSV.py` (My environment is Python3.6) would be okay.
 
+Here is the snapshot of my `TextExcel.xlsx` Excel:
+<img width="913" alt="Screen Shot 2019-07-04 at 18 57 53" src="https://user-images.githubusercontent.com/19393071/60658451-3009bd00-9e8e-11e9-818c-2435dc29de87.png">
+<img width="913" alt="Screen Shot 2019-07-04 at 18 57 44" src="https://user-images.githubusercontent.com/19393071/60658453-3009bd00-9e8e-11e9-8a6c-e4855d30ad81.png">
 
 Here is the output:
 ```
